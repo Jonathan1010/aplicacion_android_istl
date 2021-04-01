@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: :wikitudesdk:@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ad8154518075d92b6bde718ecfda734/wikitudesdk/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ad8154518075d92b6bde718ecfda734/wikitudesdk/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ad8154518075d92b6bde718ecfda734/wikitudesdk/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ad8154518075d92b6bde718ecfda734/wikitudesdk/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
